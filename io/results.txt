@@ -1,0 +1,14 @@
+Average per test
+Test #1: 88.0%   
+Test #2: 81.2%   
+Test #3: 79.2%   
+Test #4: 84.0%   
+
+Average per student
+Agharezakashi, Ali: 82.5%   
+Jessani, Raiya: 83.75%  
+Lin, Nicholas: 86.0%   
+Rutherford, Brandon: 80.0%   
+Yu, Grace: 83.25%  
+
+Average course grade: 83.1%
